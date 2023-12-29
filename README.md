@@ -2,6 +2,6 @@
 Implementing a neural network framework using pytorch
 and numpy.
 
-# ToDO
+# ToDo
 1- Add Adam Optimizer.
 2- Add Convolutions.
